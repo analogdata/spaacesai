@@ -1,0 +1,6 @@
+property_id,property_type,address,bedrooms,bathrooms,square_footage,lot_size,price,listing_date
+1,Single Family Home,123 Main St, Anytown USA,3,2,1800,0.25 acres,$350,000,2023-04-01
+2,Condominium,456 Oak Rd, Othertown USA,2,1.5,1200,N/A,$275,000,2023-03-15
+3,Townhouse,789 Elm Blvd, Someplace USA,3,2.5,1500,0.1 acres,$400,000,2023-02-28
+4,Apartment,321 Maple Ave, Elsewhereville USA,1,1,800,N/A,$175,000,2023-01-20
+5,Land Lot,159 Pine St, Nowhere USA,N/A,N/A,N/A,0.5 acres,$50,000,2023-03-10
