@@ -1,0 +1,2 @@
+# GenAI Application called SpaacesAI
+
